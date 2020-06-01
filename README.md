@@ -28,5 +28,16 @@ The analysis of the election shows that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview 
-
+The goal of this challenge is to be able to break down the vote by county, and see which county was responsible for the largest share of the vote in the election.
 ## Challenge Summary
+The further analysis of the election shows that:
+- The counties were:
+    - Arapahoe
+    - Denver
+    - Jefferson
+- The breakdown of voter contribution by county was:
+    - Arapahoe county contributed 24,801 votes (6.7%) of the total).
+    - Denver county contributed 306,055 votes (82.8% of the total).
+    - Jefferson county contributed 38,855 votes (10.5% of the total).
+- The county with the largest turnout was:
+    - Denver
